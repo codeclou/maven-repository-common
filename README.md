@@ -21,6 +21,14 @@ Contains for exampole the 'rare' jta 1.0.1
 </dependency>
 ```
 
+&nbsp;
+
+**Example of usage as Proxy Repository in Sonatype Nexus OSS**
+
+<p align="center"><img src="https://codeclou.github.io/maven-repository-common/doc/nexus-proxy-repo.png" width="80%" /></p>
+
+<p align="center"><img src="https://codeclou.github.io/maven-repository-common/doc/jta-artifact-nexus.png" width="80%" /></p>
+
 -----
 
 &nbsp;
@@ -29,7 +37,10 @@ Contains for exampole the 'rare' jta 1.0.1
 
  * **Apache Maven**
    * Apache Maven and Maven are trademarks of the [Apache Software Foundation](http://www.apache.org/).
-   
+ * **Sonatype Nexus OSS**
+   * Sonatype and Sonatype Nexus are trademarks of [Sonatype, Inc](https://www.sonatype.org/).
+   * Sonatype Nexus OSS is licensed under the [Eclipse Public License 1.0](https://github.com/sonatype/nexus-public/blob/master/LICENSE.txt).
+
 -----
 
 &nbsp;
