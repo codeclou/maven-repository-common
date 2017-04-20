@@ -11,7 +11,7 @@ but are not to be found in the most common repositories.
 
 URL: **https://codeclou.github.io/maven-repository-common/maven2/**
 
-Contains for exampole the 'rare' jta 1.0.1
+Contains for example the 'rare' jta 1.0.1
 
 ```xml
 <dependency>
