@@ -39,7 +39,7 @@ Contains for example the 'rare' jta 1.0.1
    * Apache Maven and Maven are trademarks of the [Apache Software Foundation](http://www.apache.org/).
  * **Sonatype Nexus OSS**
    * Sonatype and Sonatype Nexus are trademarks of [Sonatype, Inc](https://www.sonatype.org/).
-   * Sonatype Nexus OSS is licensed under the [Eclipse Public License 1.0](https://github.com/sonatype/nexus-public/blob/master/LICENSE.txt).
+   * Sonatype Nexus OSS is licensed under the [Eclipse Public License 1.0](https://github.com/sonatype/nexus-public/blob/master/LICENSE.txt).
 
 -----
 
