@@ -1,3 +1,5 @@
+# :bangbang: DEPRECATED
+
 # maven-repository-common
 
 Maven Repository containing common JARs that are somewhat needed for some builds,
